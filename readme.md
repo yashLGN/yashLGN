@@ -19,7 +19,7 @@ fields_of_interests:
     "Editing",
   ]
   
-currently_learning: ["Docker, Kubernetes, and React Native"]
+currently_learning: ["JS , Frameworks , Git and Editors "]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
 hobbies: [Reading Books", "Chess", "Editing", "Watching Animes", "Designing"]
 ```

@@ -8,7 +8,7 @@ education:
   [
     Highschoool
   ]
-compan: none
+company: none
 
 fields_of_interests:
   [

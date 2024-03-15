@@ -1,7 +1,7 @@
 <img src="./headerbackground.jpeg"></img>
 
 ```yaml
-name: Yashdeep aka yashLGn
+name: Yashdeep aka yashLGN
 located_in: India
 current_job: Learning Full-Stack Development
 education:

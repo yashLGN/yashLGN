@@ -6,7 +6,7 @@ located_in: India
 current_job: Learning Full-Stack Development
 education:
   [
-    Highschoool
+    Highschoool Student
   ]
 company: none
 

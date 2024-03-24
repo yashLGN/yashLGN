@@ -20,7 +20,7 @@ fields_of_interests:
   ]
   
 currently_learning: ["JS , Frameworks , Git and Editors "]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+2024 Goals: ["Create 10+ Big Projects and learn at least 5-8 new Technologies."]
 hobbies: [Reading Books", "Chess", "Editing", "Watching Animes", "Designing"]
 ```
 <h2>Some Tools I'm Learning And Using.</h2>

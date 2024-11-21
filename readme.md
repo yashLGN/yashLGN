@@ -17,6 +17,7 @@ fields_of_interests:
     "Chat GPT",
     "UI/UX",
     "Editing",
+    "Sounds",
   ]
   
 currently_learning: ["JS , Frameworks , Git and Editors "]
